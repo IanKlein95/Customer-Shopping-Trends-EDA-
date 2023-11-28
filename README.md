@@ -1,6 +1,6 @@
 # Customer-Shopping-Trends-EDA-
 Análise exploratória de dados
-O dataset "Customer Shopping Trends" visa permitir encontrar padrões de consumo e comportamento do consumidor a partir de diferentes atributos que dizem respeito às características dos indivíduos e de suas compras passadas e presentes. Aqui, busca-se realizar uma análise exploratória de dados a fim de testar as habilidades de tratamento e visualização dos mesmos com as bibliotecas Numpy, Pandas, Matplotlib, Seaborn e Plotly. O objetivo é criar um perfil do cliente e um parâmetro de desempenho da rede de lojas.
+O dataset "Customer Shopping Trends" visa permitir encontrar padrões de consumo e comportamento do consumidor a partir de diferentes atributos que dizem respeito às características dos indivíduos e de suas compras passadas e presentes. Aqui, busca-se realizar uma análise exploratória de dados a fim de testar as habilidades de tratamento e visualização dos mesmos com as bibliotecas Numpy, Pandas, Matplotlib e Seaborn. O objetivo é criar um perfil do cliente e um parâmetro de desempenho da rede de lojas.
 
 Vale salientar que o dataset foi criado artificialmente e encontrado no Kaggle, de modo que a validade dos seus valores - como irá se perceber - é limitada. Ele pode ser encontrado a partir do link: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset/discussion
 
